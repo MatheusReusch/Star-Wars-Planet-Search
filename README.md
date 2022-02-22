@@ -3,4 +3,4 @@ Projeto que tem por objetivo listar os planetas do universo de Star Wars recebid
 
 Aplicação desenvolvida visando a consolidação de conceitos relacionados a Context API e Redux. Utiliza de requisições a API e filtragem de objetos.
 
-![Star Wars Search] (/req-5.gif)
+![Star Wars Search](/req-5.gif)
